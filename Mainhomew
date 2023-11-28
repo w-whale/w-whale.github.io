@@ -1,0 +1,8 @@
+<p>计算机图形学大作业展示</p>
+<ul>
+  <li><a href="">文档</a></li>
+  
+<video autoplay="autoplay" loop="loop" id="video" x-webkit-airplay="true" webkit-playsinline="true" muted="">
+   <source src="https://github.com/w-whale/w-whale.github.io/issues/1#issue-2013588250" type="video/mp4"><a>视频网址</a>
+</video>
+</ul>
